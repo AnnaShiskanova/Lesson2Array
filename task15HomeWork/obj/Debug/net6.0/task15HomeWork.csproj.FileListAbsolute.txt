@@ -1,0 +1,15 @@
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\bin\Debug\net6.0\task15HomeWork.exe
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\bin\Debug\net6.0\task15HomeWork.deps.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\bin\Debug\net6.0\task15HomeWork.runtimeconfig.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\bin\Debug\net6.0\task15HomeWork.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\bin\Debug\net6.0\task15HomeWork.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.csproj.AssemblyReference.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.AssemblyInfoInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.AssemblyInfo.cs
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\refint\task15HomeWork.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\task15HomeWork.genruntimeconfig.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson2Array\Lesson2Array\task15HomeWork\obj\Debug\net6.0\ref\task15HomeWork.dll
